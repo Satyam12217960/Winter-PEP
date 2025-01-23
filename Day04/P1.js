@@ -40,10 +40,10 @@
 // };
 // console.log(rank.c);
 
-let last_name = "lastname";
-let full_name = {
-    first_name : "Somya",
-    [last_name] : "Jain"
-};
+// let last_name = "lastname";
+// let full_name = {
+//     first_name : "Somya",
+//     [last_name] : "Jain"
+// };
 
-console.log("My full name is", full_name.first_name , full_name.lastname, ".");
+// console.log("My full name is", full_name.first_name , full_name.lastname, ".");
